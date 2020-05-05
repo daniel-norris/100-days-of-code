@@ -13,4 +13,4 @@
 
 **Tweet(s):**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve decided to use all this free time on learning something new. So committing to learning to code every day for a 100 days <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>.</p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1257612164778647552?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve decided to use all this free time on learning something new. So committing to learning to code every day for a 100 days <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>.</p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1257612164778647552?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote>
