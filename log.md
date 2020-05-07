@@ -14,3 +14,32 @@
 **Tweet(s):**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve decided to use all this free time on learning something new. So committing to learning to code every day for a 100 days <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>.</p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1257612164778647552?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote>
+
+### Day 1: May 6, 2020
+#### GitHub Satellite
+
+![GitHub Satellite, 2020](img/github_satellite.png)
+
+**Today's Progress**: GitHub Satellite 2020, Regex && Classes in PHP.
+
+**Thoughts:** Okay, so I didn't get time to invest into the project today but it was a busy day. Looked at a load of new concepts for PHP and spent the remainder of the afternoon watching GitHubs virtual conference. Big takeaways: CodeQL for GitHub introduces some interesting functionality for identifying security vulnerabilities quickly, npm7 release will introduce `audit` and learn some great tips for getting involved in open source projects. 
+
+**Link(s) to work:** 
+
+**Tweet(s):**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For anyone interested GitHub is running a series of free virtual events today @ 12.00ET / 17.00GMT(+1). It looks really interesting, I&#39;d check it out. <a href="https://twitter.com/hashtag/Git?src=hash&amp;ref_src=twsrc%5Etfw">#Git</a> <a href="https://twitter.com/hashtag/github?src=hash&amp;ref_src=twsrc%5Etfw">#github</a> <a href="https://twitter.com/hashtag/GitHubSatellite?src=hash&amp;ref_src=twsrc%5Etfw">#GitHubSatellite</a> <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/Wf8JOPKUi6">https://t.co/Wf8JOPKUi6</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1258010285039857665?ref_src=twsrc%5Etfw">May 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Day 2: May 7, 2020
+#### Polymorphism
+
+**Today's Progress**: Polymorphism in PHP 
+
+**Thoughts:** Spent most of this afternoon getting to grips with namespaces, polymorphism and interfaces today. At face value it seems simple enough but tough to get your head around conceptually once you start digging into it. 
+
+**Link(s) to work:** 
+1. ["Polymorphism git repo"](https://github.com/daniel-norris/interfaces_php)
+
+**Tweet(s):**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been trying to get my head around OOP and Polymorphism this evening. <br><br>Need. Wine. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1258505824273498114?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
