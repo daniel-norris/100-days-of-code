@@ -33,6 +33,8 @@
 ### Day 2: May 7, 2020
 #### Polymorphism
 
+![VS Code screenshot](img/github_satellite.png)
+
 **Today's Progress**: Polymorphism in PHP 
 
 **Thoughts:** Spent most of this afternoon getting to grips with namespaces, polymorphism and interfaces today. At face value it seems simple enough but tough to get your head around conceptually once you start digging into it. 
