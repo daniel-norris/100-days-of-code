@@ -33,7 +33,7 @@
 ### Day 2: May 7, 2020
 #### Polymorphism
 
-![VS Code screenshot](img/github_satellite.png)
+![VS Code screenshot](img/interfaces.png)
 
 **Today's Progress**: Polymorphism in PHP 
 
@@ -45,3 +45,34 @@
 **Tweet(s):**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been trying to get my head around OOP and Polymorphism this evening. <br><br>Need. Wine. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1258505824273498114?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Day 3: May 9, 2020
+#### CSS Animation
+
+![CodePen](img/css_animations.gif)
+
+**Today's Progress**: Looked at native CSS animation and libraries including [GSAP](www.greensock./gsap). 
+
+**Thoughts:** Be wary of going crazy with animation. Straying too far from opacity and transform changes can have performance implications on the DOM. There's some incredible examples of very creative uses of native functionality using **Canvas** and **WebGL** including third party libraries like **Mo.js** and **GSAP**. 
+
+**Link(s) to work:** 
+
+**Tweet(s):**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 3: Looked at <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> animations yesterday, both native and with a library called <a href="https://twitter.com/greensock?ref_src=twsrc%5Etfw">@greensock</a>. Looks like you can do some incredible things with stuff like <a href="https://twitter.com/hashtag/WebGL?src=hash&amp;ref_src=twsrc%5Etfw">#WebGL</a> and libraries like <a href="https://twitter.com/hashtag/threejs?src=hash&amp;ref_src=twsrc%5Etfw">#threejs</a>, <a href="https://twitter.com/hashtag/mojs?src=hash&amp;ref_src=twsrc%5Etfw">#mojs</a> and <a href="https://twitter.com/hashtag/snapsvg?src=hash&amp;ref_src=twsrc%5Etfw">#snapsvg</a>.<br><br>What do you prefer using? <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/Ie8DY8jqM3">pic.twitter.com/Ie8DY8jqM3</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1259532651733663744?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Day 4: May 10, 2020
+#### Game Development Using Native JS
+
+![CodePen](img/atari_breakout.gif)
+
+**Today's Progress**: Looked at game development using native JS and the HTML canvas element. 
+
+**Thoughts:** My first look at the canvas element and game development of any kind. I have a new found respect for Game Devs because even creating something so simple felt particularly involved. Still, this was a great exercise to revisit JS and have a look at canvas. 
+
+**Link(s) to work:**   
+1. [Breakout Game](https://github.com/daniel-norris/2d_canvas_game)
+
+**Tweet(s):**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 4: Revisited JavaScript today had my first look at the HTML canvas element. Built an old school <a href="https://twitter.com/hashtag/atari?src=hash&amp;ref_src=twsrc%5Etfw">#atari</a> Breakout clone. The <a href="https://twitter.com/phaser_?ref_src=twsrc%5Etfw">@phaser_</a> framework looks like a good way to take this to the next level if you&#39;re interested. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/LUpiSItNdQ">pic.twitter.com/LUpiSItNdQ</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1259535002926297088?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
