@@ -76,3 +76,17 @@
 **Tweet(s):**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 4: Revisited JavaScript today had my first look at the HTML canvas element. Built an old school <a href="https://twitter.com/hashtag/atari?src=hash&amp;ref_src=twsrc%5Etfw">#atari</a> Breakout clone. The <a href="https://twitter.com/phaser_?ref_src=twsrc%5Etfw">@phaser_</a> framework looks like a good way to take this to the next level if you&#39;re interested. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/LUpiSItNdQ">pic.twitter.com/LUpiSItNdQ</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1259535002926297088?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Day 5: May 11, 2020
+#### Game Development Using Native JS
+
+![Game Screenshot](img/infinite_runner_mk1.png); 
+
+**Today's Progress**: Built on game development in native JS yesterday and looking at an infinite runner prototype with a more complex model. 
+
+**Thoughts:** Long day today but managed to get *some* project work done. The building blocks are done here. I have a vague idea of how I could approach developing the running animation and environment movement but it needs a lot more work. 
+
+**Link(s) to work:**   
+1. ["Infinite Runner - MK1" GitHub repo](https://github.com/daniel-norris/infinite_runner); 
+
+**Tweet(s):**
