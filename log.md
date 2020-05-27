@@ -3,6 +3,8 @@
 ### Day 0: May 5, 2020
 #### Trello clone project 
 
+![Trello clone](img/hrello.gif)
+
 **Today's Progress**: Implemented most of the remaining functionality for the Trello board. 
 
 **Thoughts:** I've really enjoyed doing this project and proud to see how far the team have taken this considering we're only week 4 into the bootcamp. I'm still trying to figure out how to fix a few lingering bugs with the `addEventListeners` being applied. 
@@ -28,12 +30,12 @@
 
 **Tweet(s):**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For anyone interested GitHub is running a series of free virtual events today @ 12.00ET / 17.00GMT(+1). It looks really interesting, I&#39;d check it out. <a href="https://twitter.com/hashtag/Git?src=hash&amp;ref_src=twsrc%5Etfw">#Git</a> <a href="https://twitter.com/hashtag/github?src=hash&amp;ref_src=twsrc%5Etfw">#github</a> <a href="https://twitter.com/hashtag/GitHubSatellite?src=hash&amp;ref_src=twsrc%5Etfw">#GitHubSatellite</a> <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/Wf8JOPKUi6">https://t.co/Wf8JOPKUi6</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1258010285039857665?ref_src=twsrc%5Etfw">May 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For anyone interested GitHub is running a series of free virtual events today @ 12.00ET / 17.00GMT(+1). It looks really interesting, I&#39;d check it out. <a href="https://twitter.com/hashtag/Git?src=hash&amp;ref_src=twsrc%5Etfw">#Git</a> <a href="https://twitter.com/hashtag/github?src=hash&amp;ref_src=twsrc%5Etfw">#github</a> <a href="https://twitter.com/hashtag/GitHubSatellite?src=hash&amp;ref_src=twsrc%5Etfw">#GitHubSatellite</a> <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/Wf8JOPKUi6">https://t.co/Wf8JOPKUi6</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1258010285039857665?ref_src=twsrc%5Etfw">May 6, 2020</a></blockquote> 
 
 ### Day 2: May 7, 2020
 #### Polymorphism
 
-![VS Code screenshot](img/interfaces.png)
+![VS Code screenshot](img/interfaces.PNG)
 
 **Today's Progress**: Polymorphism in PHP 
 
@@ -44,7 +46,7 @@
 
 **Tweet(s):**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been trying to get my head around OOP and Polymorphism this evening. <br><br>Need. Wine. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1258505824273498114?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been trying to get my head around OOP and Polymorphism this evening. <br><br>Need. Wine. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1258505824273498114?ref_src=twsrc%5Etfw">May 7, 2020</a></blockquote> 
 
 ### Day 3: May 9, 2020
 #### CSS Animation
@@ -59,7 +61,7 @@
 
 **Tweet(s):**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 3: Looked at <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> animations yesterday, both native and with a library called <a href="https://twitter.com/greensock?ref_src=twsrc%5Etfw">@greensock</a>. Looks like you can do some incredible things with stuff like <a href="https://twitter.com/hashtag/WebGL?src=hash&amp;ref_src=twsrc%5Etfw">#WebGL</a> and libraries like <a href="https://twitter.com/hashtag/threejs?src=hash&amp;ref_src=twsrc%5Etfw">#threejs</a>, <a href="https://twitter.com/hashtag/mojs?src=hash&amp;ref_src=twsrc%5Etfw">#mojs</a> and <a href="https://twitter.com/hashtag/snapsvg?src=hash&amp;ref_src=twsrc%5Etfw">#snapsvg</a>.<br><br>What do you prefer using? <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/Ie8DY8jqM3">pic.twitter.com/Ie8DY8jqM3</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1259532651733663744?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 3: Looked at <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> animations yesterday, both native and with a library called <a href="https://twitter.com/greensock?ref_src=twsrc%5Etfw">@greensock</a>. Looks like you can do some incredible things with stuff like <a href="https://twitter.com/hashtag/WebGL?src=hash&amp;ref_src=twsrc%5Etfw">#WebGL</a> and libraries like <a href="https://twitter.com/hashtag/threejs?src=hash&amp;ref_src=twsrc%5Etfw">#threejs</a>, <a href="https://twitter.com/hashtag/mojs?src=hash&amp;ref_src=twsrc%5Etfw">#mojs</a> and <a href="https://twitter.com/hashtag/snapsvg?src=hash&amp;ref_src=twsrc%5Etfw">#snapsvg</a>.<br><br>What do you prefer using? <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/Ie8DY8jqM3">pic.twitter.com/Ie8DY8jqM3</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1259532651733663744?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote>
 
 ### Day 4: May 10, 2020
 #### Game Development Using Native JS
@@ -75,7 +77,7 @@
 
 **Tweet(s):**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 4: Revisited JavaScript today had my first look at the HTML canvas element. Built an old school <a href="https://twitter.com/hashtag/atari?src=hash&amp;ref_src=twsrc%5Etfw">#atari</a> Breakout clone. The <a href="https://twitter.com/phaser_?ref_src=twsrc%5Etfw">@phaser_</a> framework looks like a good way to take this to the next level if you&#39;re interested. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/LUpiSItNdQ">pic.twitter.com/LUpiSItNdQ</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1259535002926297088?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 4: Revisited JavaScript today had my first look at the HTML canvas element. Built an old school <a href="https://twitter.com/hashtag/atari?src=hash&amp;ref_src=twsrc%5Etfw">#atari</a> Breakout clone. The <a href="https://twitter.com/phaser_?ref_src=twsrc%5Etfw">@phaser_</a> framework looks like a good way to take this to the next level if you&#39;re interested. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/LUpiSItNdQ">pic.twitter.com/LUpiSItNdQ</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1259535002926297088?ref_src=twsrc%5Etfw">May 10, 2020</a></blockquote>
 
 ### Day 5: May 11, 2020
 #### Game Development Using Native JS
@@ -104,3 +106,19 @@
 1. [Neumorphic Components - GitHub](https://github.com/daniel-norris/neumorphic_design); 
 
 **Tweet(s):**
+
+### Day 7: May 27, 2020
+#### Neumorphic Design
+
+![Neumorphic Design gif](img/neumorphic_components-1.1.gif); 
+
+**Today's Progress**: Built on the neumorphic components I looked at yesterday. 
+
+**Thoughts:** The more complex the components become, the more divs that are being used which makes for terribly illegible code. Examples I've seen online showcase people developing really elegant CSS solutions using a single div and a lot of psuedo elements, SVGs and gradients. I need to look at how I can refactor these components. 
+
+**Link(s) to work:**   
+1. [Neumorphic Components - GitHub](https://github.com/daniel-norris/neumorphic_design); 
+
+**Tweet(s):**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">D6 &amp; D7 - it&#39;s been tricky finding time for side projects but managed to have a look neumorphism and started creating some components using CSS. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> <a href="https://twitter.com/hashtag/neumorphic?src=hash&amp;ref_src=twsrc%5Etfw">#neumorphic</a> <a href="https://twitter.com/hashtag/neumorphism?src=hash&amp;ref_src=twsrc%5Etfw">#neumorphism</a> <a href="https://t.co/IumJ2iipCk">pic.twitter.com/IumJ2iipCk</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1265789450921148420?ref_src=twsrc%5Etfw">May 27, 2020</a></blockquote>
