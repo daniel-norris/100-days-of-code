@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge
 
+TL;DR I'm trying to do independent project work alongside the 9-5 bootcamp. Anything goes as long as its related to the work we are doing during the course. 
+
+You can see what I've been doing [here](log.md). 
+
 ## Contents
 
 * [Rules](rules.md)
