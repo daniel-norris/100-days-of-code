@@ -90,3 +90,17 @@
 1. ["Infinite Runner - MK1" GitHub repo](https://github.com/daniel-norris/infinite_runner); 
 
 **Tweet(s):**
+
+### Day 6: May 26, 2020
+#### Neumorphic Design
+
+![Neumorphic Design gif](img/neumorphic_components.gif); 
+
+**Today's Progress**: Researched neumorphic design and started created a library for dashboard and application components. Hoping to use these for some larger projects later down the line. 
+
+**Thoughts:** It's been a while since the last post. It's tricky juggling the bootcamp workload and finding time to blog and do side projects. Neumorphism looks interesting. There might be some accessibility issues I need to be wary of but it would be great to combine some more complex component ideas I've seen around with React. 
+
+**Link(s) to work:**   
+1. [Neumorphic Components - GitHub](https://github.com/daniel-norris/neumorphic_design); 
+
+**Tweet(s):**
