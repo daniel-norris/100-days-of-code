@@ -122,3 +122,17 @@
 **Tweet(s):**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">D6 &amp; D7 - it&#39;s been tricky finding time for side projects but managed to have a look neumorphism and started creating some components using CSS. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> <a href="https://twitter.com/hashtag/neumorphic?src=hash&amp;ref_src=twsrc%5Etfw">#neumorphic</a> <a href="https://twitter.com/hashtag/neumorphism?src=hash&amp;ref_src=twsrc%5Etfw">#neumorphism</a> <a href="https://t.co/IumJ2iipCk">pic.twitter.com/IumJ2iipCk</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1265789450921148420?ref_src=twsrc%5Etfw">May 27, 2020</a></blockquote>
+
+### Day 8: May 28, 2020
+#### React Components
+
+![gif of React SPA](img/react_spa.gif); 
+
+**Today's Progress**: Built a React Single Page Application today with my own and some pre built components.  
+
+**Thoughts:** Love React. It feels very intuitive and the speed at which it feels you can go from concept to MVP is great.
+
+**Link(s) to work:**   
+1. [React App - GitHub](https://github.com/daniel-norris/developme_react_app); 
+
+**Tweet(s):**
