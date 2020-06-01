@@ -136,3 +136,19 @@
 1. [React App - GitHub](https://github.com/daniel-norris/developme_react_app); 
 
 **Tweet(s):**
+
+### Day 9: June 1, 2020
+#### Single Div CSS
+
+![single div of a Garmin watch](img/react_spa.gif); 
+
+**Today's Progress**: Explored the limits of CSS by trying to replicate a Garmin watch using a single div as the major constraint. 
+
+**Thoughts:** This is a lot harder than it looks. Information is a little scarse and the ability to use things like `border-image`, `text-shadow` and a few other CSS properties is poorly documented anywhere. You appear to be limited to the initial sets you create for the div element or `::after` / `::before` psuedo elements so planning for this beforehand is important. 
+
+**Link(s) to work:**   
+1. [Single Div - GitHub](https://github.com/daniel-norris/single_div); 
+
+**Tweet(s):**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 9: inspired by <a href="https://twitter.com/lynnandtonic?ref_src=twsrc%5Etfw">@lynnandtonic</a>&#39;s single div project and work by <a href="https://twitter.com/ellie_html?ref_src=twsrc%5Etfw">@ellie_html</a> on here I decided to give some single div CSS design a try. Harder than it looks but pleased with the result! <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CSS?src=hash&amp;ref_src=twsrc%5Etfw">#CSS</a> <a href="https://twitter.com/hashtag/Garmin?src=hash&amp;ref_src=twsrc%5Etfw">#Garmin</a> <a href="https://t.co/3BYtYqRWB8">https://t.co/3BYtYqRWB8</a> <a href="https://t.co/GGqDDUMBjx">pic.twitter.com/GGqDDUMBjx</a></p>&mdash; Dan Norris (@danielpnorris) <a href="https://twitter.com/danielpnorris/status/1267588724105322502?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote>
