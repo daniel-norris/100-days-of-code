@@ -140,7 +140,7 @@
 ### Day 9: June 1, 2020
 #### Single Div CSS
 
-![single div of a Garmin watch](img/react_spa.gif); 
+![single div of a Garmin watch](img/garmin.PNG); 
 
 **Today's Progress**: Explored the limits of CSS by trying to replicate a Garmin watch using a single div as the major constraint. 
 
