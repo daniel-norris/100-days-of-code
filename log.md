@@ -168,8 +168,6 @@
 ### Day 11: June 3, 2020
 #### Neumorphic React Library
 
-![single div of a Garmin watch](img/garmin.PNG);
-
 **Today's Progress**: Refactored all the CSS into SASS. Learnt a valuable lesson regarding Gulp and updated the documentation.
 
 **Thoughts:** There hasn't been a great deal of available time again today but successfully managed to refactor all the CSS into SASS. This was a good opportunity to revisit the SASS docs and discover what functionality I could add to improve the CSS. I spent a considerable amount of time setting up Gulp task runners and watchers only to discover that I didn't need to convert the SCSS to CSS in React! I'm updating the documentation using Markdown as an interim solution but would really like to publish the library with professional looking docs and code snippets.
@@ -217,19 +215,7 @@
 
 **Tweet(s):**
 
-### Day 15: June 10, 2020
-#### Laravel API
-
-**Today's Progress**: Started on an API for a side project using Laravel and Homestead.
-
-**Thoughts:** Taken a bit of a detour today. We have our final project week coming up next week and I wanted to revisit Laravel and have started on an API for a app idea I've wanted to implement which focuses on enabling rock climbers to improve performance over time.
-
-**Link(s) to work:**
-1. [Climbing API - GitHub](https://github.com/daniel-norris/climbing_app_api);
-
-**Tweet(s):**
-
-### Day 16: June 11, 2020
+### Day 15: June 11, 2020
 #### React Component Library
 
 **Today's Progress**: Preparing the library for publishing to npm.
@@ -241,7 +227,7 @@
 
 **Tweet(s):**
 
-### Day 17: June 14, 2020
+### Day 16: June 14, 2020
 #### React Library Style Guide
 
 ![screenshot of storybook style guide](img/style_guide.PNG);
@@ -255,7 +241,7 @@
 
 **Tweet(s):**
 
-### Day 18: June 21, 2020
+### Day 17: June 21, 2020
 #### App Planning
 
 ![screenshot of storybook style guide](img/balsamiq_wireframes2.PNG);
@@ -270,7 +256,7 @@
 
 **Tweet(s):**
 
-### Day 19: June 22, 2020
+### Day 18: June 22, 2020
 #### App Development
 
 ![screenshot of storybook style guide](img/balsamiq_wireframes.PNG);
@@ -285,7 +271,7 @@
 
 **Tweet(s):**
 
-### Day 20: June 23, 2020
+### Day 19: June 23, 2020
 #### App Development
 
 ![screenshot of api routes](img/api_routes.PNG);
@@ -300,7 +286,7 @@
 
 **Tweet(s):**
 
-### Day 21: June 24, 2020
+### Day 20: June 24, 2020
 #### App Development
 
 ![screenshot of storybook style guide](img/unit_tests.PNG);
@@ -315,7 +301,7 @@
 
 **Tweet(s):**
 
-### Day 22: June 25, 2020
+### Day 21: June 25, 2020
 #### App Development
 
 **Today's Progress**: Implemented new features today on the front end.
@@ -328,7 +314,7 @@
 
 **Tweet(s):**
 
-### Day 23: June 26, 2020
+### Day 22: June 26, 2020
 #### App Development
 
 **Today's Progress**: Implemented a predict winner feature and client side validation.
@@ -341,7 +327,7 @@
 
 **Tweet(s):**
 
-### Day 24: June 27, 2020
+### Day 23: June 27, 2020
 #### App Development
 
 ![screenshot of aws dashboard](img/aws_ec2.PNG);
@@ -356,14 +342,14 @@
 
 **Tweet(s):**
 
-### Day 25: June 28, 2020
+### Day 24: June 28, 2020
 #### App Development
 
 ![screenshot of app](img/foodraft.PNG)
 
 **Today's Progress**: Deployed!
 
-**Thoughts:** Some final bits and pieces. Using Lighthouse to check its passing accessibility and fixed some issues affecting performance. The site is now responsive too.
+**Thoughts:** Fixed some final bits and pieces. Using Lighthouse to check its passing accessibility and fixed some issues affecting performance. The site is now responsive too.
 
 **Link(s) to work:**
 1. [Football App - GitHub](https://github.com/daniel-norris/football_app);
