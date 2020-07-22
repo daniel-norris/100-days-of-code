@@ -357,3 +357,220 @@
 
 **Tweet(s):**
 
+### Day 25: June 29, 2020
+#### Updated Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** TBC
+
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 26: June 30, 2020
+#### Updated Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Started applying for jobs in earnest today.
+
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 27: July 1, 2020
+#### Updated Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** TBC
+
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 27: July 1, 2020
+#### Updated Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** TBC
+
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 28: July 3, 2020
+#### Stock Price Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Started on the stock price portfolio.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 29: July 4, 2020
+#### Created React Library Boilerplate
+
+**Today's Progress**:
+
+**Thoughts:** Created a boilerplate github repository for my Neu UI project that I could re-use at a later date.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 30: July 5, 2020
+#### Improved Library Boilerplate
+
+**Today's Progress**:
+
+**Thoughts:** Included support for MDX documentation using Storybook.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 31: July 6, 2020
+#### Improved Library Boilerplate
+
+**Today's Progress**:
+
+**Thoughts:** Finalised boilerplate.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 32: July 7, 2020
+#### Landing Page for Neu UI Library
+
+**Today's Progress**:
+
+**Thoughts:** Created a landing page for Neu UI.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 33: July 8, 2020
+#### Updated Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Updated portfolio, deployed landing page and returned to Stock Portfolio project.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 34: July 9, 2020
+#### Stock Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Working on stock portfolio.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 35: July 10, 2020
+#### Stock Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Working on stock portfolio.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 36: July 14, 2020
+#### Stock Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Working on stock portfolio.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 37: July 15, 2020
+#### XR Project
+
+**Today's Progress**:
+
+**Thoughts:** Working on voluntary work for Extinction Rebellion. React, C# .NET Core, MongoDB app.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 38: July 16, 2020
+#### Stock Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Working on stock portfolio.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 39: July 17, 2020
+#### Stock Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Working on stock portfolio.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 39: July 17, 2020
+#### Stock Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Working on stock portfolio.
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 40: July 21, 2020
+#### Stock Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Working on voluntary work for Extinction Rebellion. React, C# .NET Core, MongoDB app.
+
+Had an interview with Lexis Nexis today!
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
+
+### Day 41: July 22, 2020
+#### Stock Portfolio
+
+**Today's Progress**:
+
+**Thoughts:** Working on voluntary work for Extinction Rebellion. React, C# .NET Core, MongoDB app.
+
+Secured another job interview today.
+
+**Link(s) to work:**
+1.
+
+**Tweet(s):**
